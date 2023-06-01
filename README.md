@@ -4,7 +4,6 @@ Hi There 👋😋
 
 🚀 Pen name: big cucumber(Brother Melon)
 
-😋 驭码无境 开拓境界
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lurudong&count_private=true&theme=dark&show_icons=true&include_all_commits=true&hide_rank" />
