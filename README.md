@@ -17,6 +17,18 @@ Hi There 👋😋
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
 </p>
 
+<!--
+**lurudong/lurudong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👯 I’m looking to collaborate on ...
+
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+-->
+
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
 
 <!--
