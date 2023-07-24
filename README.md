@@ -15,7 +15,6 @@ Hi There 👋😋
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
-  <img src="wechat-official-account.png" />
 </p>
 
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
