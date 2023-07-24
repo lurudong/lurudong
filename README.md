@@ -3,7 +3,12 @@ Hi There 👋😋
 🔭 I'm Lu Rudong from Guangzhou.
 
 🚀 Pen name: big cucumber(Brother Melon)
+---
 
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurudong&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&layout=compact&count_private=true" alt="lurudong's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurudong&show_icons=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&layout=compact&count_private=true" alt="lurudong's github top languages" />
+  
   <img src="https://github-profile-trophy.vercel.app/?username=lurudong&theme=monokai&column=8&no-frame=true&no-bg=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -16,6 +21,7 @@ Hi There 👋😋
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lurudong/count.svg" />
 </p>
+
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lurudong/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
 
 <!--
