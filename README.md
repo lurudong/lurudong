@@ -1,6 +1,5 @@
 Hi There 👋😋
 
-🔭 I'm Lu Rudong from Guangzhou.
 
 ### Certifications
 [Foundational C# With Microsoft](https://www.freecodecamp.org/certification/fcc11dfb0fa-f524-4b93-a8b9-9e439b28e223/foundational-c-sharp-with-microsoft)
